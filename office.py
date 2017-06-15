@@ -9,6 +9,6 @@ s_ip="192.168.122.82"
 
 s_port=9999
 
-os.system('ssh -X test@' + s_ip + ' libreoffice')
+os.system('ssh -X test@' + s_ip + ' libreoffice4.3')
 execfile('saas.py')
 
