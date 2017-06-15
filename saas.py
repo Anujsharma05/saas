@@ -31,7 +31,7 @@ elif choice=='5':
 	execfile('viewer.py')
 elif choice=='6':
 	print "LibreOffice is about to run"
-	execfile('offcie.py')
+	execfile('office.py')
 elif choice=='7':
 	print "VLC is about to run"
 	execfile('vlc.py')
